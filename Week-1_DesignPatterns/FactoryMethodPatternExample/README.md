@@ -87,7 +87,7 @@ Opening Excel Document...
 ## 🖼️ Screenshot of Output
 
 > 📷 *(Insert your screenshot below)*  
-![Output Screenshot](output.jpg)
+![Output Screenshot](output.jpg.png)
 
 ---
 
